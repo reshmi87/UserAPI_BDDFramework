@@ -1,0 +1,8 @@
+target/
+logs/
+test-output/
+allure-results/
+Reports/
+ReportsCrossbrowser/
+ExtentReports/
+allure-results/
